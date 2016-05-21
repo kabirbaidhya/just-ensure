@@ -1,0 +1,9 @@
+._*
+.~lock.*
+.project
+.settings
+composer.lock
+
+/vendor
+tests/reports
+tests/coverage
