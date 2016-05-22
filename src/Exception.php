@@ -1,6 +1,6 @@
 <?php
 
-namespace Just\Ensure;
+namespace Yorss\Ensure;
 
 /**
  * @author Kabir Baidhya

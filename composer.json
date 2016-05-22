@@ -1,6 +1,6 @@
 {
-    "name": "just/ensure",
-    "description": "Just Ensure",
+    "name": "yorss/ensure",
+    "description": "Just ensure things are as expected.",
     "license": "MIT",
     "keywords": [
         "just",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Just\\Ensure\\": "src/"
+            "Yorss\\Ensure\\": "src/"
         },
         "files": [
             "src/Misc/functions.php"

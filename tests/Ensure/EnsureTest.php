@@ -1,8 +1,8 @@
 <?php
 
-namespace Test\Just\Ensure;
+namespace Test\Yorss\Ensure;
 
-use Just\Ensure\Exception as EnsureException;
+use Yorss\Ensure\Exception as EnsureException;
 
 /**
  * @author Kabir Baidhya

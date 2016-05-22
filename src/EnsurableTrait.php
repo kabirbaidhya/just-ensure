@@ -1,9 +1,9 @@
 <?php
 
-namespace Just\Ensure;
+namespace Yorss\Ensure;
 
-use Just\Ensure\Ensure as Just;
-use Just\Ensure\Translation\TranslatableInterface;
+use Yorss\Ensure\Ensure as Just;
+use Yorss\Ensure\Translation\TranslatableInterface;
 
 /**
  * @author Kabir Baidhya

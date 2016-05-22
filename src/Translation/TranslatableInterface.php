@@ -1,6 +1,6 @@
 <?php
 
-namespace Just\Ensure\Translation;
+namespace Yorss\Ensure\Translation;
 
 /**
  * @author Kabir Baidhya
